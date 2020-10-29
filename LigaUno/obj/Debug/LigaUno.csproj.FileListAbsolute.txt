@@ -1,0 +1,12 @@
+D:\Sistemas\CSharp\LigaUno\LigaUno\bin\Debug\LigaUno.exe.config
+D:\Sistemas\CSharp\LigaUno\LigaUno\bin\Debug\LigaUno.exe
+D:\Sistemas\CSharp\LigaUno\LigaUno\bin\Debug\LigaUno.pdb
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.csprojResolveAssemblyReference.cache
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.FrmTablaAcumulada.resources
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.Properties.Resources.resources
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.csproj.GenerateResource.Cache
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.exe
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.pdb
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.FrmListaPartidos.resources
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.exe.licenses
+D:\Sistemas\CSharp\LigaUno\LigaUno\obj\Debug\LigaUno.FrmPartido.resources
